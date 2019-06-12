@@ -1,4 +1,4 @@
-# strange-attraction
+# strange-attractor
 Algorithmic composition tool
 
 # Settings:
